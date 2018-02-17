@@ -1,5 +1,5 @@
 # ScriptableObject-Library
-A collection of the most common used scriptable object cases I use through out my videos. It includes variables in data containers and scriptable object events. Plus some additional helper scripts to work with, such as True/False event stacks based on bools / gameObject states and numeric comparisons. 
+A collection of the most common used scriptable object cases I use through out my videos. It includes variables in data containers and scriptable object events. Plus some additional helper scripts to work with, such as True/False event stacks based on bools / gameObject states and numeric comparisons. There's also a few other utility scripts.
 
 # How to use
 Just include the namespace SO to access the data containers for the variables. 
