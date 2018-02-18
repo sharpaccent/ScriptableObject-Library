@@ -12,15 +12,17 @@ namespace SO
 
         void OnEnable()
         {
-            gameEvent.Register(this);
+            if(gameEvent != null)
+                gameEvent.Register(this);
         }
 
         void OnDisable()
         {
-            gameEvent.UnRegister(this);
+            if (gameEvent != null)
+                gameEvent.UnRegister(this);
         }
 
-        public void Response()
+        public virtual void Response()
         {
             response.Invoke();
         }
