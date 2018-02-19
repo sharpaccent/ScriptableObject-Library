@@ -9,8 +9,11 @@ Explanation videos here:
 [videos pending]
 
 # Patreon
-If you like more timer saver scripts and game development tutorials, consider supporting my cause on Patreon https://www.patreon.com/csharpaccent?
+If you like more timer saver scripts and game development tutorials, consider supporting my cause on Patreon 
+
+https://www.patreon.com/csharpaccent?
 
 # Follow me at
 https://sharpaccent.com/
+
 https://twitter.com/AccentTutorials
