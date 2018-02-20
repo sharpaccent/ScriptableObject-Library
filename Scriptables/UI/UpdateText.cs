@@ -18,5 +18,10 @@ namespace SO.UI
         {
             targetText.text = targetString.value;
         }
+        
+        public void Raise(string target)
+        {
+            targetText.text = target;
+        }
     }
 }
