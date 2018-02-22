@@ -6,7 +6,13 @@ Just include the namespace SO to access the data containers for the variables.
 Any UI helper script is is under SO.UI 
  
 Explanation videos here: 
-[videos pending]
+
+Intro video https://www.youtube.com/watch?v=R-AdCt8UyuE 
+
+Conditional Event Stacks https://www.youtube.com/watch?v=vVxp3nbbh4E
+
+Updating UI Elements https://www.youtube.com/watch?v=Z1IMdmEaGRk
+
 
 # Patreon
 If you like more timer saver scripts and game development tutorials, consider supporting my cause on Patreon 
